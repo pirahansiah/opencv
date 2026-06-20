@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+# macOS and career assets
+CAREER_IMPACT.md
+.DS_Store
+._pack-*.idx
+._*
